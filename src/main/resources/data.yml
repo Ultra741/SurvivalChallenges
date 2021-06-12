@@ -1,0 +1,11 @@
+challenges:
+  ULTRA_HARDCORE:
+    active: false
+  NO_ARMOR:
+    active: false
+  NO_SLEEPING:
+    active: false
+  NO_OBSIDIAN:
+    active: false
+  VEGETARIAN:
+    active: false

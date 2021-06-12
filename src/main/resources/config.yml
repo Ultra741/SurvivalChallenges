@@ -1,0 +1,36 @@
+messages:
+  not-a-player: "&cYou must be a player to do this!"
+  no-permission: "&cYou don't have permission to do this!"
+  challenge-enabled: "&aSuccessfully enabled the %%name%% &achallenge."
+  challenge-disabled: "&cSuccessfully disabled the %%name%% &cchallenge."
+
+inventories:
+  challenges:
+    title: "Challenges"
+    items:
+      CLOSE:
+        index: 49
+        material: "BARRIER"
+        name: "&cClose"
+
+challenges:
+  ULTRA_HARDCORE:
+    material: "NETHERITE_SWORD"
+    name: "&4Ultra Hardcore"
+    description: "Take damage once, and you instantly die."
+  NO_ARMOR:
+    material: "NETHERITE_CHESTPLATE"
+    name: "&6No Armor"
+    description: "Makes it so players can't use armor."
+  NO_SLEEPING:
+    material: "BLACK_BED"
+    name: "&cNo Sleeping"
+    description: "Makes it so players can't sleep."
+  NO_OBSIDIAN:
+    material: "OBSIDIAN"
+    name: "&cNo Obsidian"
+    description: "Makes it so players can't place obsidian."
+  VEGETARIAN:
+    material: "KELP"
+    name: "&aVegetarian"
+    description: "Makes it so players can't eat animal-based food."

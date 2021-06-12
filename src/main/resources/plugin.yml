@@ -1,0 +1,8 @@
+name: SurvivalChallenges
+version: ${project.version}
+main: ultradev.survivalchallenges.Main
+api-version: 1.16
+authors: [ UltraDev ]
+commands:
+  challenges:
+    description: Opens the challenges menu.
